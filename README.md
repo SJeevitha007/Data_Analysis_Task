@@ -1,5 +1,9 @@
 # Data_Analysis_Task
 
+Cleaned the Dataset using Python.
+
+Analysis:
+
 1.The interest of users in the products during both June and July remained consistent.
 
 2.Only a small percentage of users requested refunds, suggesting overall satisfaction with the products.
